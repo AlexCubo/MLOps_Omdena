@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/0/8f87fdfad4384908a1cb3585e11e41c2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 8f87fdfad4384908a1cb3585e11e41c2
+run_uuid: 8f87fdfad4384908a1cb3585e11e41c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1641309466461
+status: 1
+tags: []
+user_id: cubo
